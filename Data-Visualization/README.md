@@ -1,31 +1,37 @@
-## Data Visulization
+# Data Visualizations
 
-Data Visualization is the presentation of data in graphical format. It helps people understand the significance of data by summarizing and 
-presenting huge amount of data in a simple and easy-to-understand format and helps communicate information clearly and effectively.
+Data Visualization is the presentation of data in graphical format. It helps people understand the significance of data by summarizing and presenting huge amount of data in a simple and easy-to-understand format and helps communicate information clearly and effectively.
 
-## Setup Instruction
+# Setup Instructions
+For the visualizations, we require plotly and you can install it with the following command
 
-First Open the terminal and write `pip install matplotlib` this will install required package then after make file `program.py` and take any one program out of three and write it 
-and run the `program.py` file . Sit relax and enjoy Data Visualization Process
+```
+pip install plotly
+```
 
+# Outputs
 
-## Output Line Plotting
-  
-  <img align="center" alt="JPEG" src="https://github.com/Ayush7614/Amazing-Python-Scripts/blob/master/Data%20Visualization/Line%20Plotting.jpeg" width="500" height="500" />
+## 1. Bar Chart
+[![Revised-Bar-Chart.png](https://i.postimg.cc/YSQWnMDv/Revised-Bar-Chart.png)](https://postimg.cc/f3TyknNs)
 
-## Output Bar Plotting
+## 2. Bubble Chart
+[![Bubble-Chart.png](https://i.postimg.cc/6QLg17g4/Bubble-Chart.png)](https://postimg.cc/2qy015zC)
 
-  <img align="center" alt="JPEG" src="https://github.com/Ayush7614/Amazing-Python-Scripts/blob/master/Data%20Visualization/Bar%20Plotting.jpeg" width="500" height="500" />
+## 3. Heat Map
+[![HeatMap.png](https://i.postimg.cc/pLVsX06r/HeatMap.png)](https://postimg.cc/yk5mLTBC)
 
-## Output Scatter Plotting
+## 4. Histogram Plot
+[![Histogram.png](https://i.postimg.cc/BQpCyTn0/Histogram.png)](https://postimg.cc/2VqvLBWc)
 
-  <img align="center" alt="JPEG" src="https://github.com/Ayush7614/Amazing-Python-Scripts/blob/master/Data%20Visualization/Scatter%20Plotting.jpeg" width="500" height="500" />
+## 5. Line Chart
+[![Line-Chart.png](https://i.postimg.cc/2SPLXyhY/Line-Chart.png)](https://postimg.cc/RWL0WMgp)
 
-## Output Histogram Plotting
+## 6. Pie Chart
+[![Revised-Pie-Chart.png](https://i.postimg.cc/kXwwsF60/Revised-Pie-Chart.png)](https://postimg.cc/crgQ43ch)
 
-  <img align="center" alt="PNG" src="https://github.com/Ayush7614/Amazing-Python-Scripts/blob/master/Data%20Visualization/Histo.png" width="500" height="500" />
-  
-## Output PieChart Plotting
+## 7. Scatter Plot
+[![Scatter-Plot.png](https://i.postimg.cc/Pqjrww1C/Scatter-Plot.png)](https://postimg.cc/0zVsgrWv)
 
-  <img align="center" alt="PNG" src="https://github.com/Ayush7614/Amazing-Python-Scripts/blob/master/Data%20Visualization/Pie.png" width="500" height="500" />
+# Author
+[Elita Menezes](https://github.com/ELITA04/) 
 
